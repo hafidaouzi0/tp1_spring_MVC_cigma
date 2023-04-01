@@ -9,13 +9,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="248b6550-69fd-487e-b409-824b34af32d6" name="Changes" comment="commitingh">
-      <change afterPath="$PROJECT_DIR$/src/main/java/util/HibernateUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ConnectionTest.java" afterDir="false" />
+    <list default="true" id="248b6550-69fd-487e-b409-824b34af32d6" name="Changes" comment="successful , redi lbal l hibernate had la config makatkhdmsh mea recent dependencies">
+      <change afterPath="$PROJECT_DIR$/src/main/java/dao/PersonDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dao/PersonDaoImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/entities/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entities/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +25,7 @@
       <list>
         <option value="spring-beans.schema" />
         <option value="Jsp File" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -76,6 +75,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="dao" />
+    </key>
+  </component>
   <component name="RunManager" selected="JUnit.ConnectionTest">
     <configuration name="ConnectionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="tp1_spring_MVC" />
@@ -204,7 +208,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680301863424</updated>
-      <workItem from="1680301864959" duration="10876000" />
+      <workItem from="1680301864959" duration="16908000" />
     </task>
     <task id="LOCAL-00001" summary="commiting">
       <created>1680311108928</created>
@@ -220,7 +224,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680311812543</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="successful , redi lbal l hibernate had la config makatkhdmsh mea recent dependencies">
+      <created>1680316004723</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680316004723</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -230,6 +241,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="commiting" />
     <MESSAGE value="commitingh" />
-    <option name="LAST_COMMIT_MESSAGE" value="commitingh" />
+    <MESSAGE value="successful , redi lbal l hibernate had la config makatkhdmsh mea recent dependencies" />
+    <option name="LAST_COMMIT_MESSAGE" value="successful , redi lbal l hibernate had la config makatkhdmsh mea recent dependencies" />
   </component>
 </project>
