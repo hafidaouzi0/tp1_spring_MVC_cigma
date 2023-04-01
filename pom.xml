@@ -12,12 +12,14 @@
   <name>tp1_spring_MVC Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
+    <!-- https://mvnrepository.com/artifact/junit/junit -->
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
-      <version>3.8.1</version>
+      <version>4.13.2</version>
       <scope>test</scope>
     </dependency>
+
 
     <!-- https://mvnrepository.com/artifact/org.springframework/spring-webmvc -->
     <dependency>
@@ -27,11 +29,10 @@
     </dependency>
 
 
-    <!-- https://mvnrepository.com/artifact/org.hibernate/hibernate-core -->
     <dependency>
       <groupId>org.hibernate</groupId>
       <artifactId>hibernate-core</artifactId>
-      <version>5.6.14.Final</version>
+      <version>5.6.10.Final</version>
     </dependency>
 
     <!-- https://mvnrepository.com/artifact/com.mysql/mysql-connector-j -->
