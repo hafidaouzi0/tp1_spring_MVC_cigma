@@ -9,11 +9,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="248b6550-69fd-487e-b409-824b34af32d6" name="Changes" comment="successful , redi lbal l hibernate had la config makatkhdmsh mea recent dependencies">
-      <change afterPath="$PROJECT_DIR$/src/main/java/dao/PersonDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dao/PersonDaoImpl.java" afterDir="false" />
+    <list default="true" id="248b6550-69fd-487e-b409-824b34af32d6" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/metier/PersonMetier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/metier/PersonMetierImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/web/PersonController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/people.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/entities/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entities/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dao/PersonDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dao/PersonDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/application-context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/application-context.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,9 +28,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="spring-beans.schema" />
-        <option value="Jsp File" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="Jsp File" />
       </list>
     </option>
   </component>
@@ -77,6 +81,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="metier" />
       <recent name="dao" />
     </key>
   </component>
@@ -208,7 +213,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680301863424</updated>
-      <workItem from="1680301864959" duration="16908000" />
+      <workItem from="1680301864959" duration="28747000" />
     </task>
     <task id="LOCAL-00001" summary="commiting">
       <created>1680311108928</created>
@@ -231,7 +236,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680316004723</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commit">
+      <created>1680382803110</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680382803110</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -242,6 +254,18 @@
     <MESSAGE value="commiting" />
     <MESSAGE value="commitingh" />
     <MESSAGE value="successful , redi lbal l hibernate had la config makatkhdmsh mea recent dependencies" />
-    <option name="LAST_COMMIT_MESSAGE" value="successful , redi lbal l hibernate had la config makatkhdmsh mea recent dependencies" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/web/PersonController.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

@@ -122,7 +122,7 @@ throw new Exception(person.getId()+"cannot be updated");
 
         try{
             //ouvrir la session
-            if(session.isOpen()){
+            if( session!=null && session.isOpen()){
                 session= factory.getCurrentSession();
 
             }else {
